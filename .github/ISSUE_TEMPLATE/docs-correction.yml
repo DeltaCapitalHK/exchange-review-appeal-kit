@@ -1,0 +1,49 @@
+name: Documentation correction
+description: Report an issue or suggest a correction for public documentation.
+title: "[Docs]: "
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve this public documentation.
+
+        Do not submit private case information, identity documents, exchange account screenshots, wallet access materials, support tickets, or confidential evidence.
+  - type: input
+    id: page
+    attributes:
+      label: Affected page
+      description: Link or path to the page that needs correction.
+      placeholder: docs/en/platform-notes.md
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What should be corrected?
+      description: Describe the inaccurate, outdated, unclear, or incomplete part.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested replacement or addition
+      description: Provide suggested wording if available.
+    validations:
+      required: false
+  - type: input
+    id: source
+    attributes:
+      label: Public source or reference
+      description: Provide an official public source where possible.
+      placeholder: https://www.binance.com/en/support
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Safety confirmation
+      options:
+        - label: I have not included private case materials, identity documents, wallet access materials, exchange support tickets, or confidential evidence.
+          required: true

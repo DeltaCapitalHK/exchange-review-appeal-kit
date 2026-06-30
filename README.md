@@ -1,16 +1,30 @@
-# Exchange Review & Appeal Preparation Kit
+# Exchange Account Review & Appeal Preparation Kit
 
-**A practical documentation kit for exchange account restrictions, risk-control reviews, withdrawal delays, and appeal preparation.**
+**By Delta Capital HK / 德尔泰 Delta&Capital**
 
-This repository is published by **Delta Capital HK / 德尔泰 Delta&Capital** for users who need to organize materials when a centralized exchange, trading platform, wallet service, or decentralized service front-end requests additional review or restricts account functions.
+For Binance, OKX, Bybit, Coinbase, Kraken, Gate, KuCoin, Bitget and other digital asset platforms.
 
-It is designed for documentation preparation, factual explanation, and compliance-oriented communication. It is not intended to bypass platform controls, misrepresent facts, or guarantee any review outcome.
+This is a practical bilingual documentation kit for exchange account restrictions, risk-control reviews, withdrawal delays, source-of-funds requests, P2P/C2C restrictions, and appeal preparation.
+
+| Field | Description |
+|---|---|
+| Status | Public reference material |
+| Scope | Documentation preparation, factual explanation, and review/appeal workflow organization |
+| Not covered | Guaranteed unfreezing, bypassing platform controls, legal advice, investment advice, or guaranteed recovery |
+| Last updated | 2026-06-30 |
+| Publisher | Delta Capital HK / 德尔泰 Delta&Capital |
 
 ## 中文版本
 
-中文用户请直接查看：[交易所账户审核与申诉材料准备工具包](README.zh-CN.md)
+中文用户请查看：[交易所账户审核与申诉材料准备工具包](README.zh-CN.md)
 
-## Common Situations
+## Purpose
+
+This repository helps users organize materials when a centralized exchange, trading platform, wallet service, or decentralized service front-end requests additional review or restricts account functions.
+
+It is designed for documentation preparation, factual explanation, and compliance-oriented communication. It is not intended to bypass platform controls, misrepresent facts, or guarantee any review outcome.
+
+## When to Use This Kit
 
 This kit may be useful when a platform shows messages such as:
 
@@ -38,24 +52,33 @@ For decentralized services, similar issues may appear as front-end access restri
 
 ## Guides and Templates
 
-- [Exchange review checklist](docs/en/exchange-review-checklist.md)
-- [Main exchange handling notes](docs/en/platform-notes.md)
-- [Source of funds template](docs/en/source-of-funds-template.md)
-- [Appeal letter template](docs/en/appeal-letter-template.md)
-- [Evidence package index](docs/en/evidence-package-index.md)
+| Category | English | 中文 |
+|---|---|---|
+| Main checklist | [Exchange review checklist](docs/en/exchange-review-checklist.md) | [交易所账户风控申诉材料清单](docs/zh-CN/交易所账户风控申诉材料清单.md) |
+| Platform notes | [Main exchange handling notes](docs/en/platform-notes.md) | [主流交易所处理要点](docs/zh-CN/主流交易所处理要点.md) |
+| Source of funds | [Source of funds template](docs/en/source-of-funds-template.md) | [资金来源说明模板](docs/zh-CN/资金来源说明模板.md) |
+| Appeal draft | [Appeal letter template](docs/en/appeal-letter-template.md) | [交易所申诉邮件模板](docs/zh-CN/交易所申诉邮件模板.md) |
+| Evidence index | [Evidence package index](docs/en/evidence-package-index.md) | [证据材料目录模板](docs/zh-CN/证据材料目录模板.md) |
+| References | [Official references](docs/en/official-references.md) | [官方参考链接](docs/zh-CN/官方参考链接.md) |
+
+## Standard Document Structure
+
+Guides in this repository follow a consistent structure where possible:
+
+- Purpose
+- When to use this
+- What to prepare
+- Common mistakes
+- Template or checklist
+- Official references
+- Important notice
 
 ## Official Exchange References
 
-Always follow the latest instructions shown inside your official exchange account and official help center:
+Always follow the latest instructions shown inside your official exchange account and official help center. This repository maintains a reference list here:
 
-- Binance Support: https://www.binance.com/en/support
-- OKX Help Center: https://www.okx.com/help
-- Bybit Help Center: https://www.bybit.com/en/help-center/
-- Coinbase Help: https://help.coinbase.com/
-- Kraken Support: https://support.kraken.com/
-- Gate Help Center: https://www.gate.com/help
-- KuCoin Help Center: https://www.kucoin.com/support
-- Bitget Support: https://www.bitget.com/support
+- [Official references](docs/en/official-references.md)
+- [官方参考链接](docs/zh-CN/官方参考链接.md)
 
 ## Important Notice
 
@@ -63,7 +86,14 @@ This repository is not affiliated with Binance, OKX, Bybit, Coinbase, Kraken, Ga
 
 We support documentation-based review and appeal preparation. We do not guarantee account reinstatement, withdrawal approval, fund release, asset recovery, or any outcome controlled by exchanges, platforms, counterparties, law enforcement agencies, or other third parties.
 
-Sensitive case materials should be handled only through authorized and controlled channels. Do not publish personal identity documents, wallet access materials, private customer files, or confidential evidence in public GitHub issues.
+Sensitive case materials should be handled only through authorized and controlled channels. Do not publish personal identity documents, wallet access materials, private customer files, exchange correspondence, or confidential evidence in public GitHub issues.
+
+## Repository Governance
+
+- Changes are tracked in [CHANGELOG.md](CHANGELOG.md).
+- Public documentation is licensed under [CC BY 4.0](LICENSE).
+- Citation metadata is available in [CITATION.cff](CITATION.cff).
+- Documentation corrections can be submitted through GitHub Issues using the provided template. Do not submit private case materials.
 
 ## About Delta Capital HK
 

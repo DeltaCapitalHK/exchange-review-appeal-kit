@@ -1,6 +1,19 @@
 # Evidence Package Index
 
+## Purpose
+
 Use this index to organize documents before submitting an appeal, replying to support, or sharing materials with a professional advisor.
+
+## When to Use This
+
+Use this template when you need to turn scattered screenshots, transaction records, and support messages into a structured evidence package.
+
+## Common Mistakes
+
+- Uploading an unorganized folder of screenshots.
+- Naming files with vague labels such as `image1.png` or `new file.pdf`.
+- Mixing private unrelated records with the case package.
+- Sending materials without a summary or index.
 
 ## A. Account and Platform Information
 
@@ -52,3 +65,11 @@ Use this index to organize documents before submitting an appeal, replying to su
 | Date | Submitted To | Materials Submitted | Result / Next Step |
 |---|---|---|---|
 | YYYY-MM-DD | Platform support | A01, A02, C01 | Awaiting review |
+
+## Official References
+
+See [Official references](official-references.md). If a platform asks for a specific document format, follow that format first.
+
+## Important Notice
+
+Do not publish private identity documents, wallet access materials, support tickets, or confidential case evidence in public repositories or GitHub issues.

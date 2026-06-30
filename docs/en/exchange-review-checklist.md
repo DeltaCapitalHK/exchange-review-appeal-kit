@@ -1,6 +1,12 @@
 # Exchange Account Review Checklist
 
+## Purpose
+
 Use this checklist before contacting support, submitting an appeal, or replying to a compliance/risk-control request.
+
+## When to Use This
+
+Use this checklist when an exchange or platform restricts account functions, delays withdrawals, requests source-of-funds information, or places an account under compliance/risk review.
 
 ## 1. Account and Restriction Information
 
@@ -83,3 +89,11 @@ After submitting:
 - Note every platform reply
 - Reply only with requested or relevant additional materials
 - Do not create multiple conflicting tickets unless the platform instructs you to do so
+
+## Official References
+
+See [Official references](official-references.md) and always follow the latest instructions shown in your official platform account.
+
+## Important Notice
+
+This checklist is for documentation preparation only. It does not guarantee account reinstatement, withdrawal approval, fund release, or any outcome controlled by an exchange or platform.

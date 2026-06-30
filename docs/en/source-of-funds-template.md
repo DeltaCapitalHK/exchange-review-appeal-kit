@@ -1,6 +1,19 @@
 # Source of Funds Explanation Template
 
+## Purpose
+
 Use this template when a platform asks you to explain the origin of funds, transaction purpose, wallet ownership, or related activity.
+
+## When to Use This
+
+Use this template when an exchange, wallet service, or trading platform requests additional information about deposits, withdrawals, OTC/P2P transactions, wallet transfers, or related account activity.
+
+## Common Mistakes
+
+- Providing a short claim without supporting records.
+- Mixing unrelated transactions into the same explanation.
+- Submitting screenshots without order IDs, transaction hashes, or dates.
+- Changing the explanation across different tickets without clarifying why.
 
 ## Basic Information
 
@@ -64,3 +77,11 @@ The information above is prepared based on the materials currently available to 
 Name:
 
 Date:
+
+## Official References
+
+See [Official references](official-references.md). If the platform provides a specific form or document request, follow that request first.
+
+## Important Notice
+
+This template is for factual explanation and documentation organization only. It is not legal advice and does not guarantee a platform review outcome.

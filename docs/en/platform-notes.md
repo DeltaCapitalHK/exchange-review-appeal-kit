@@ -1,6 +1,12 @@
 # Main Exchange Handling Notes
 
-This page summarizes practical preparation points for common platforms. It does not replace official exchange instructions. Always follow the latest notices shown in your account and the platform's official help center.
+## Purpose
+
+This page summarizes practical preparation points for common platforms. It does not replace official exchange instructions.
+
+## When to Use This
+
+Use this page when you need to prepare account review, source-of-funds, withdrawal review, P2P/C2C, or risk-control materials for a specific platform.
 
 ## Binance
 
@@ -110,3 +116,7 @@ Official references:
 ## Important Reminder
 
 Do not rely on anyone who claims they can bypass exchange risk control, guarantee withdrawal approval, or remove restrictions without platform review. Most legitimate resolution paths require factual explanation, identity/account verification, source of funds documentation, and platform-side review.
+
+## Official References
+
+See [Official references](official-references.md). Always follow the latest notices shown in your account and the platform's official help center.

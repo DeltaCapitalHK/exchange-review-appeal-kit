@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or reference this public documentation kit, please cite it as below."
+title: "Exchange Account Review & Appeal Preparation Kit"
+type: dataset
+authors:
+  - name: "Delta Capital HK"
+    website: "https://deltacapitalhk.com"
+repository-code: "https://github.com/DeltaCapitalHK/exchange-review-appeal-kit"
+url: "https://github.com/DeltaCapitalHK/exchange-review-appeal-kit"
+date-released: "2026-06-30"
+abstract: "A bilingual public documentation kit for exchange account restrictions, risk-control reviews, withdrawal delays, source-of-funds requests, and appeal preparation."
+keywords:
+  - digital assets
+  - exchange review
+  - account restriction
+  - source of funds
+  - blockchain forensics
+  - crypto compliance
+license: "CC-BY-4.0"

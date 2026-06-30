@@ -1,5 +1,22 @@
 # Appeal Letter Template
 
+## Purpose
+
+Use this template to draft a concise account-review or appeal message after you have prepared supporting materials.
+
+## When to Use This
+
+Use this template when a platform has restricted an account function, delayed a withdrawal, requested additional review, or asked for source-of-funds information.
+
+## Common Mistakes
+
+- Sending an emotional message without facts or attachments.
+- Threatening support staff or creating multiple conflicting tickets.
+- Claiming guaranteed legitimacy without evidence.
+- Omitting UID, ticket ID, restriction type, or exact platform notice.
+
+## Template
+
 Subject: Request for Account Review and Restriction Clarification - UID: [Your UID]
 
 Dear Compliance / Risk Review Team,
@@ -56,3 +73,11 @@ Sincerely,
 [Name]
 
 [Contact Information]
+
+## Official References
+
+See [Official references](official-references.md). If the exchange provides a specific appeal form, use that form before sending a separate email.
+
+## Important Notice
+
+This draft does not guarantee account reinstatement, withdrawal approval, or fund release. Review outcomes are controlled by the relevant platform.
