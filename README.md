@@ -1,6 +1,6 @@
 # Exchange Account Review & Appeal Preparation Kit
 
-**By Delta Capital HK / 德尔泰 Delta&Capital**
+**By Delta&Capital (德尔泰)**
 
 For Binance, OKX, Bybit, Coinbase, Kraken, Gate, KuCoin, Bitget and other digital asset platforms.
 
@@ -12,7 +12,7 @@ This is a practical bilingual documentation kit for exchange account restriction
 | Scope | Documentation preparation, factual explanation, and review/appeal workflow organization |
 | Not covered | Guaranteed unfreezing, bypassing platform controls, legal advice, investment advice, or guaranteed recovery |
 | Last updated | 2026-06-30 |
-| Publisher | Delta Capital HK / 德尔泰 Delta&Capital |
+| Publisher | Delta&Capital (德尔泰) |
 
 ## 中文版本
 
@@ -95,9 +95,9 @@ Sensitive case materials should be handled only through authorized and controlle
 - Citation metadata is available in [CITATION.cff](CITATION.cff).
 - Documentation corrections can be submitted through GitHub Issues using the provided template. Do not submit private case materials.
 
-## About Delta Capital HK
+## About Delta&Capital
 
-Delta Capital HK / 德尔泰 Delta&Capital provides digital asset incident response, blockchain forensic analysis, exchange account review support, and recovery coordination.
+Delta&Capital (德尔泰) provides digital asset incident response, blockchain forensic analysis, exchange account review support, and recovery coordination.
 
 - Website: https://deltacapitalhk.com
 - Email: support@deltacapitalhk.com
