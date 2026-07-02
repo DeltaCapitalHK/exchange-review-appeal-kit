@@ -2,6 +2,10 @@
 
 All notable public documentation updates to this repository are tracked here.
 
+## 2026-07-02
+
+- Added Chinese FAQ pages for exchange account freezing, risk-control review, withdrawal review, C2C/P2P lockups, source-of-funds requests, and appeal emails.
+
 ## 2026-06-30
 
 - Initial public release of the Exchange Account Review & Appeal Preparation Kit.

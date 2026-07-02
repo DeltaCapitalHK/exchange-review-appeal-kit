@@ -18,6 +18,8 @@ This is a practical bilingual documentation kit for exchange account restriction
 
 中文用户请查看：[交易所账户审核与申诉材料准备工具包](README.zh-CN.md)
 
+Chinese freeze/risk-review FAQ: [交易所冻结、风控和提现审核常见问题](docs/zh-CN/冻结风控常见问题/README.md)
+
 ## Purpose
 
 This repository helps users organize materials when a centralized exchange, trading platform, wallet service, or decentralized service front-end requests additional review or restricts account functions.

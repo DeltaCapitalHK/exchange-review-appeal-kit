@@ -51,12 +51,24 @@
 
 | 类型 | 中文 | English |
 |---|---|---|
+| 冻结/风控 FAQ | [交易所冻结、风控和提现审核常见问题](docs/zh-CN/冻结风控常见问题/README.md) | - |
 | 申诉材料清单 | [交易所账户风控申诉材料清单](docs/zh-CN/交易所账户风控申诉材料清单.md) | [Exchange review checklist](docs/en/exchange-review-checklist.md) |
 | 主流平台要点 | [主流交易所处理要点](docs/zh-CN/主流交易所处理要点.md) | [Main exchange handling notes](docs/en/platform-notes.md) |
 | 资金来源说明 | [资金来源说明模板](docs/zh-CN/资金来源说明模板.md) | [Source of funds template](docs/en/source-of-funds-template.md) |
 | 申诉邮件 | [交易所申诉邮件模板](docs/zh-CN/交易所申诉邮件模板.md) | [Appeal letter template](docs/en/appeal-letter-template.md) |
 | 证据目录 | [证据材料目录模板](docs/zh-CN/证据材料目录模板.md) | [Evidence package index](docs/en/evidence-package-index.md) |
 | 官方参考 | [官方参考链接](docs/zh-CN/官方参考链接.md) | [Official references](docs/en/official-references.md) |
+
+## 冻结、风控和提现审核 FAQ
+
+| 问题 | 文档 |
+|---|---|
+| 币安账户被冻结怎么办 | [币安账户被冻结怎么办](docs/zh-CN/冻结风控常见问题/币安账户被冻结怎么办.md) |
+| 欧易 OKX 账户被风控怎么办 | [欧易OKX账户被风控怎么办](docs/zh-CN/冻结风控常见问题/欧易OKX账户被风控怎么办.md) |
+| Bybit 提现审核一直不通过怎么办 | [Bybit提现审核一直不通过怎么办](docs/zh-CN/冻结风控常见问题/Bybit提现审核一直不通过怎么办.md) |
+| C2C/P2P 资金被锁定怎么办 | [C2CP2P资金被锁定怎么办](docs/zh-CN/冻结风控常见问题/C2CP2P资金被锁定怎么办.md) |
+| 交易所要求资金来源说明怎么写 | [交易所要求资金来源说明怎么写](docs/zh-CN/冻结风控常见问题/交易所要求资金来源说明怎么写.md) |
+| 交易所申诉邮件怎么写 | [交易所申诉邮件怎么写](docs/zh-CN/冻结风控常见问题/交易所申诉邮件怎么写.md) |
 
 ## 统一文档结构
 
