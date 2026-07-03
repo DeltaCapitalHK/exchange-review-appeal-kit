@@ -2,7 +2,7 @@
 
 **发布方：德尔泰（Delta&Capital）**
 
-适用于币安、欧易 OKX、Bybit、Coinbase、Kraken、Gate、KuCoin、Bitget 等平台账户风控、冻结、限制、提现审核、资金来源审查、C2C/P2P 限制等场景的材料准备。
+适用于币安、欧易 OKX、Bybit、Coinbase、Kraken、Gate、KuCoin、Bitget、HTX/老火币等平台账户风控、冻结、限制、提现审核、资金来源审查、C2C/P2P 限制、账号停用和历史资产找回等场景的材料准备。
 
 | 项目 | 说明 |
 |---|---|
